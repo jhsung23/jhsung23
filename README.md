@@ -23,6 +23,4 @@
   <img src="https://img.shields.io/badge/android-3DDC84?style=flat&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/tailwind css-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/styled components-DB7093?style=flat&logo=styledcomponents&logoColor=white">
-  <img src="https://img.shields.io/badge/react query-FF4154?style=flat&logo=reactquery&logoColor=white">
-  <img src="https://img.shields.io/badge/axios-5A29E4?style=flat&logo=axios&logoColor=white">
 </div>
