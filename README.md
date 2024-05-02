@@ -1,22 +1,34 @@
 
-## 안녕하세요! FrontEnd 개발자 성지현 입니다.
+### Hellooooooo 👋
 
-### ✏️ Skills
+무언가를 만드는 것과 깔끔한 UI를 좋아해요. 그래서 프론트엔드 개발이 재밌습니다 😁
 
-Typescript, Javascript, React.js, Next.js, Storybook
+#### 2024
 
-### 🗂️ Projects
+- 24.03 UNITHON 11th - Nafull [🧑🏻‍💻](https://github.com/NafullNafull/Nafull-client)
+- 24.01-24.03 DND 10기 - Donworry [🧑🏻‍💻](https://github.com/dnd-side-project/dnd-10th-3-frontend)
 
-| project | description | Github |
-| --- | --- | --- |
-| 💰 돈워리 (DonWorry) | 축의금 고민 해결을 위한 커뮤니티 서비스 (Next) | [Repository](https://github.com/dnd-side-project/dnd-10th-3-frontend) |
-| 👩🏻‍💻 MySite | 개인 포트폴리오 및 기술 블로그 사이트 (Next) | [Repository](https://github.com/jhsung23/my-site) |
-| 🗺️ 플립 (PliP) | 지도 기반 국내 여행 일정 계획 및 여행 일지 관리 웹 서비스 (React) | [Repository](https://github.com/jhsung23/PliP) |
-| 🤝 투게더 (Twogether) | 양육자 간 함께 기록하며 공유하는 우리 아기 육아 메모장 애플리케이션 (ReactNative) | [Repository](https://github.com/jhsung23/Twogether) |
-| 🩸 체커블 (Checkable) | 물체 인식 기술을 활용한 여성 시각장애인 대상 월경 가이드 애플리케이션 (Android) | [Repository](https://github.com/jhsung23/Checkable) |
+#### 2023
 
-<!---
-### Activities
+- 23.12~ FE Article Study 2 리딩
+- 23.12 Personal Blog 개발 [🧑🏻‍💻](https://github.com/jhsung23/my-site)
+- 23.09-23.11 FE Article Study
+- 23.06 PliP: 국내 여행 일정 계획 웹 서비스 [🧑🏻‍💻](https://github.com/jhsung23/PliP)
+- 23.03-23.08 SEB FE Bootcamp
 
-- DND
-->
+#### 2022
+
+- 22.12 SWU Software Convergence 최우수졸업작품상 - Checkable: 시각장애인을 위한 월경 가이드 앱 [🧑🏻‍💻](https://github.com/jhsung23/Checkable)
+- 22.11 Wooteco pre-course
+- 22.11 SWU Coding Algorithm Comp 우수상
+- 22.10 KSII 추계학술발표대회 구두발표 세션 참가, 우수논문상
+- 22.08 WaveIT Hackathon 대상 - Twogether: 육아 메모장 앱 [🧑🏻‍💻](https://github.com/jhsung23/Twogether)
+
+#### ~2021
+
+- 21.08 SWU IT Hackathon 본선
+- 21.07-21.08 SWU Android Sofware Advisor
+- 21.03-21.11 AlgoAlgo 알고리즘 소학회
+- 20.08 Programming GURU2 장려상 - 슈토어: 교내 기념품 스토어 앱
+- 19.01 Programming GURU1 대상 - 3D Mario game
+
