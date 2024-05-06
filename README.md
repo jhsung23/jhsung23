@@ -20,14 +20,14 @@
 
 - 22.12 SWU Software Convergence 최우수졸업작품상 - Checkable: 시각장애인을 위한 월경 가이드 앱 [🧑🏻‍💻](https://github.com/jhsung23/Checkable)
 - 22.11 Wooteco pre-course
-- 22.11 SWU Coding Algorithm Comp 우수상
+- 22.11 SWU Coding Algorithm Comp. 우수상
 - 22.10 KSII 추계학술발표대회 구두발표 세션 참가, 우수논문상
 - 22.08 WaveIT Hackathon 대상 - Twogether: 육아 메모장 앱 [🧑🏻‍💻](https://github.com/jhsung23/Twogether)
 
 #### ~2021
 
 - 21.08 SWU IT Hackathon 본선
-- 21.07-21.08 SWU Android Sofware Advisor
+- 21.07-21.08 SWU Android Software Advisor
 - 21.03-21.11 AlgoAlgo 알고리즘 소학회
 - 20.08 Programming GURU2 장려상 - 슈토어: 교내 기념품 스토어 앱
 - 19.01 Programming GURU1 대상 - 3D Mario game
