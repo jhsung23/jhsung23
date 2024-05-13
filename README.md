@@ -5,8 +5,8 @@
 
 #### 2024
 
-- 24.03 UNITHON 11th - Nafull [🧑🏻‍💻](https://github.com/NafullNafull/Nafull-client)
-- 24.01-24.03 DND 10기 - Donworry [🧑🏻‍💻](https://github.com/dnd-side-project/dnd-10th-3-frontend)
+- 24.03 IT 해커톤 UNITHON 11th - Nafull: 마음 전달 사이트 [🧑🏻‍💻](https://github.com/NafullNafull/Nafull-client)
+- 24.01-24.03 IT 연합 동아리 DND 10기 - Donworry: 축의금 및 하객들의 고민 해결을 위한 웹서비스 [🧑🏻‍💻](https://github.com/dnd-side-project/dnd-10th-3-frontend)
 
 #### 2023
 
