@@ -32,3 +32,4 @@
 - 20.08 Programming GURU2 장려상 - 슈토어: 교내 기념품 스토어 앱
 - 19.01 Programming GURU1 대상 - 3D Mario game
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhsung23&count_bg=%232CA605&title_bg=%23CBE5C1&icon=aerlingus.svg&icon_color=%232CA605&title=_&edge_flat=false)](https://hits.seeyoufarm.com)
