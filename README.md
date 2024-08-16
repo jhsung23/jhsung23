@@ -1,5 +1,5 @@
 
-### Hellooooooo 👋
+### Helloooooooo 👋
 
 무언가를 만드는 것과 깔끔한 UI를 좋아해요. 그래서 프론트엔드 개발이 재밌습니다 😁
 
