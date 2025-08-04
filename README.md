@@ -10,10 +10,8 @@
 
 ### Others
 
-- SIPE 3기 (2024.10 - current)
+- FE Article Study 운영 (2023.12 - current)
+- SIPE 3기 (2024.10 - 2025.02)
 - DND 11기 (2024.07 - 2024.08) - `JJakkak`: 모두의 일정을 한눈에! 간편한 일정 조율 서비스 [🧑🏻‍💻](https://github.com/dnd-side-project/dnd-11th-7-frontend)
 - DND 10기 (2024.01 - 2024.03) - `Donworry`: 축의금 및 하객들의 고민 해결을 위한 웹서비스 [🧑🏻‍💻](https://github.com/dnd-side-project/dnd-10th-3-frontend)
 - Unithon 11th 참가 (2024.03) - `Nafull`: 마음 전달 사이트 [🧑🏻‍💻](https://github.com/NafullNafull/Nafull-client)
-- FE Article Study 운영 (2023.12 - current)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhsung23&count_bg=%232CA605&title_bg=%23CBE5C1&icon=aerlingus.svg&icon_color=%232CA605&title=_&edge_flat=false)](https://hits.seeyoufarm.com)
